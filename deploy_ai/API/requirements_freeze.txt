@@ -65,7 +65,7 @@ mock==2.0.0
 moviepy==0.2.3.5
 netifaces==0.10.4
 networkx==2.2
-nltk==3.4
+nltk==3.4.5
 numpy==1.15.4
 oauth==1.0.1
 oauthlib==2.0.6
