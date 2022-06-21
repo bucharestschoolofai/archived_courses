@@ -66,7 +66,7 @@ moviepy==0.2.3.5
 netifaces==0.10.4
 networkx==2.2
 nltk==3.4.5
-numpy==1.15.4
+numpy==1.22.0
 oauth==1.0.1
 oauthlib==2.0.6
 olefile==0.45.1
